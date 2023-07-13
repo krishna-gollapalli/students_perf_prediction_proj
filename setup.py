@@ -20,7 +20,7 @@ setup(
 name='student_perf_pred',
 version='0.0.1',
 author='Krishna_mohan',
-author_email='gollapalli.k@outlook.com',
+author_email='gollapalli.k@northeastern.edu',
 packages=find_packages(),
 install_requires=get_requirements('requirements.txt')
 
